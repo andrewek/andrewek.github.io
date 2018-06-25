@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-This is my attempt at porting the Roon theme over to Jekyll. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Hello! Welcome!
 
-You can find the official Roon theme (for Ghost) at: [github.com/TryGhost/Roon/](https://github.com/TryGhost/Roon/)
+This is where I write about things. Most of those things are related to
+programming, but some are about management, parenting, teaching, or even
+non-profit administration (all relevant areas of experience, if not expertise).
 
-You can find the source code my Jekyll version of Roon: [github.com/vormwald/joon](https://github.com/vormwald/joon)
+Most of my code is not public, but you can view my [GitHub
+page](https://github.com/andrewek) if you feel so inclined. You can also [tweet
+with me](https://twitter.com/ektastrophe) or [instagram with
+me](https://www.instagram.com/ektastrophe/). Or I'm [on
+LinkedIn](https://www.linkedin.com/in/andrew-ek-761aa24a/)?
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
-
-Enjoy!
+The world is a weird place.
