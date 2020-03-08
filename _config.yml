@@ -1,9 +1,9 @@
 # Site settings
-title: "Look! A Dog!"
+title: The Moon is Implicit
 logo: logo.png # image from https://www.flickr.com/photos/lwr/5496279831/in/set-72157594159055823
 email: andrewek@gmail.com
 description: > # this means to ignore newlines until "url:"
-  Software engineer. Pretty good papa and husband. Former English teacher. The moon is implicit.
+  Software engineer. Pretty good papa and husband. Former English teacher.
 url: "https://andrewek.github.io" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog/
 twitter_username: ektastrophe
