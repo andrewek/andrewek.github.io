@@ -18,4 +18,6 @@ with me](https://twitter.com/ektastrophe) or [instagram with
 me](https://www.instagram.com/ektastrophe/). Or I'm [on
 LinkedIn](https://www.linkedin.com/in/andrew-ek-761aa24a/)?
 
+I also maintain a [weekly-ish newsletter](https://andrewek.substack.com/).
+
 The world is a weird place. But at least it has dogs.
