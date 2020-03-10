@@ -3,6 +3,7 @@ layout: post
 title: "A Reasonably Pleasant Wordpress Setup with Docker"
 video: false
 image: bee.jpg
+categories: [docker, wordpress, development-environment]
 ---
 
 I recently had to help a customer troubleshoot a Wordpress setup. This isn't a

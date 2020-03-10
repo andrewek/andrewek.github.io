@@ -372,6 +372,11 @@ body.noimage {
     border-top-style: solid;
 }
 
+.categories {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
 #feature_image {
     position: relative;
     width: 100%;

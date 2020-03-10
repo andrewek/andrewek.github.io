@@ -3,6 +3,7 @@ layout: post
 title: "Name Your Patterns"
 image: blackberry.jpg
 video: false
+categories: [technical-debt, communication, software-design]
 ---
 
 When we jump into a new codebase and begin orienting ourselves, assuming that we
