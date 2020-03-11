@@ -1,6 +1,6 @@
 /* Link colour */
 a {
-    color: #27586B;
+    color: #0543A6;
 }
 
 /* Border at the top of the page */
@@ -649,8 +649,8 @@ article .text hr {
 article .text blockquote {
     margin: 42px 10px;
     padding-left: 20px;
-    border-left: 4px solid #ededee;
-    font-size: 23px
+    border-left: 4px solid #0543A6;
+    font-size: 18px
 }
 article .text table {
     display: block;

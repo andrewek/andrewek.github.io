@@ -8,13 +8,15 @@ categories: [technical-debt, communication, software-design]
 
 This writeup by Sunny Beatteay of DigitalOcean, ["From 15,000 database
 connections to under 100: DigitalOcean's tale of tech
-debt"](https://blog.digitalocean.com/from-15-000-database-connections-to-under-100-digitaloceans-tale-of-tech-debt/)
-describes a technical rearchitecture of their stack.
+debt,"](https://blog.digitalocean.com/from-15-000-database-connections-to-under-100-digitaloceans-tale-of-tech-debt/)
+describes a technical rearchitecture of their stack, but is also interesting
+from a culture standpoint.
 
-They had been using an *event-sourcing* paradigm, wherein records corresponding
-to work to be done were created in a MySQL database and then fetched and
-processed by a worker process. In "Gang of Four" design pattern parlance, this
-was probably pretty similar to the [Command
+They had been using an
+[event-sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) paradigm,
+wherein records corresponding to work to be done were created in a MySQL
+database and then fetched and processed by a worker process. In "Gang of Four"
+design pattern parlance, this was probably pretty similar to the [Command
 pattern](https://en.wikipedia.org/wiki/Command_pattern), in which you represent,
 in data, work to be done.
 
