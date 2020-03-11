@@ -12,6 +12,13 @@
 
   <link rel="shortcut icon" href="{{ asset "favicon.ico" }}">
 
+  {% comment %}OpenGraph Meta-information {% endcomment %}
+  <meta property="og:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+  <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  {% if page.image %}
+    <meta property="og:image"
+          content="{{site.url}}/content/images/{{page.image}}">
+  {% endif %}
 
   {% comment %} Styles n Scripts {% endcomment %}
   <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:400,700,400italic,700italic|Open+Sans:400italic,700italic,700,400">
