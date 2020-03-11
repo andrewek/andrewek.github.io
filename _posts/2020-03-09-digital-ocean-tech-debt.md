@@ -6,6 +6,10 @@ image: mousetrap.jpg
 categories: [technical-debt, communication, software-design]
 ---
 
+As technical teams, we want be able to make bold technical decisions and respond
+to need quickly and decisively. Even with the best software developers,
+technical skill is not the only prerequisite.
+
 This writeup by Sunny Beatteay of DigitalOcean, ["From 15,000 database
 connections to under 100: DigitalOcean's tale of tech
 debt,"](https://blog.digitalocean.com/from-15-000-database-connections-to-under-100-digitaloceans-tale-of-tech-debt/)
