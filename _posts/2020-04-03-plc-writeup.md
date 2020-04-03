@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Professional Learning Communities Outside of Schools"
+title: "100% Remote and Autonomous Professional Learning and Development"
 video: false
 image: prairie.jpg
 categories: [learning]
@@ -85,7 +85,7 @@ for:
 
 Thus, we write code together. We look at each other's code (using
 screen-sharing). We try variations and experiments with our code. We ask
-questios and see if we can figure out the answers. We compare and contrast with
+questions and see if we can figure out the answers. We compare and contrast with
 other things we know.
 
 After we're done discussing, two of us write up our notes (paying particular
